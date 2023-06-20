@@ -75,17 +75,17 @@ nav ul li {
     display: flex;
     flex-direction: column;
     gap: 32px;;
-    background-color: #fff;
+    background-color: #000;
     position: absolute;
     right: -20px;
     top: 0px;
     padding: 20px 40px;
     height: fit-content;
-    width: 50vw;
+    width: 100%;
 }
 
 .link a {
-    color: #000;
+    color: #fff;
     padding: 20px;
     font-size: 24px;
 }
