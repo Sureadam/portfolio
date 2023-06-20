@@ -75,7 +75,7 @@ nav ul li {
     display: flex;
     flex-direction: column;
     gap: 32px;;
-    background-color: #000;
+    background-color: #282828;
     position: absolute;
     right: -20px;
     top: 0px;
