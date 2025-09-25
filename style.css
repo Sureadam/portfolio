@@ -217,6 +217,13 @@ nav ul li {
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
+    }
+
+    .img-one img {
+        width: 350px;
+        height: 350px;
+        object-fit: cover;
+        border-radius: 16px;
 }
 
 .description p:nth-child(2) {
